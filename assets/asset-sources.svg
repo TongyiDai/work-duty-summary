@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">八类重要飞书资产平权采集</title>
+  <desc id="desc">自评述职总结文档、OKR、任务、会议妙记、日历例会、我主编的文档、审批、IM 高频协作，八类资产都是反推职责的一等信号，默认全量采集，无主次取舍。</desc>
+  <rect width="1200" height="675" fill="#FFFFFF"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" fill="#111111">
+    <text x="96" y="84" font-size="28" font-weight="700">八类资产，一律平权</text>
+    <text x="96" y="116" font-size="16" fill="#666666">默认全量采集，缺权限先征询、不静默降级</text>
+    <line x1="96" y1="144" x2="1104" y2="144" stroke="#E8E8E8" stroke-width="1"/>
+
+    <g stroke="#2F6BFF" stroke-width="2">
+      <rect x="96" y="196" width="234" height="118" fill="#FFFFFF"/>
+    </g>
+    <line x1="96" y1="196" x2="330" y2="196" stroke="#2F6BFF" stroke-width="8"/>
+    <text x="213" y="248" text-anchor="middle" font-size="18" font-weight="700">自评 / 述职 / 总结</text>
+    <text x="213" y="278" text-anchor="middle" font-size="13" fill="#666666">最强信号 · 本人自述</text>
+    <text x="213" y="298" text-anchor="middle" font-size="13" fill="#666666">职责与结果定稿</text>
+
+    <g fill="#F5F5F5" stroke="#999999" stroke-width="1">
+      <rect x="360" y="196" width="172" height="118"/>
+      <rect x="562" y="196" width="172" height="118"/>
+      <rect x="764" y="196" width="172" height="118"/>
+      <rect x="360" y="344" width="172" height="118"/>
+      <rect x="562" y="344" width="172" height="118"/>
+      <rect x="764" y="344" width="172" height="118"/>
+      <rect x="966" y="344" width="138" height="118"/>
+    </g>
+    <g font-size="17" text-anchor="middle" font-weight="600">
+      <text x="446" y="248">OKR</text>
+      <text x="648" y="248">任务</text>
+      <text x="850" y="248">会议+妙记</text>
+      <text x="446" y="396">日历例会</text>
+      <text x="648" y="396">我主编文档</text>
+      <text x="850" y="396">审批</text>
+      <text x="1035" y="396">IM 协作</text>
+    </g>
+    <g font-size="12" text-anchor="middle" fill="#666666">
+      <text x="446" y="274">承诺目标</text>
+      <text x="648" y="274">在做的事</text>
+      <text x="850" y="274">议题话语权</text>
+      <text x="446" y="422">协作节奏</text>
+      <text x="648" y="422">专业领域</text>
+      <text x="850" y="422">职权边界</text>
+      <text x="1035" y="422">利益相关方</text>
+    </g>
+
+    <g fill="#2F6BFF">
+      <circle cx="96" cy="540" r="4"/>
+      <circle cx="1104" cy="540" r="4"/>
+    </g>
+    <line x1="112" y1="540" x2="1088" y2="540" stroke="#E8E8E8" stroke-width="1"/>
+    <text x="600" y="547" text-anchor="middle" font-size="13" fill="#666666">默认脱敏｜只提炼职责与结果线索，不落敏感原文</text>
+  </g>
+</svg>

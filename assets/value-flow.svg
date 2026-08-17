@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">从飞书真实资产到职责锚点</title>
+  <desc id="desc">全量重要飞书资产经过归纳，成为一份职责画像，写进 Agent 记忆后成为稳定锚点，让后续探索与判断对齐本人关注点，而不是发散偏离。</desc>
+  <rect width="1200" height="675" fill="#FFFFFF"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" fill="#111111">
+    <text x="96" y="84" font-size="28" font-weight="700">从真实工作，反推真实职责</text>
+    <text x="96" y="116" font-size="16" fill="#666666">让 AI 对齐"你真正关心什么"，而不是发散偏离</text>
+    <line x1="96" y1="144" x2="1104" y2="144" stroke="#E8E8E8" stroke-width="1"/>
+
+    <rect x="96" y="240" width="200" height="150" fill="#F5F5F5" stroke="#999999" stroke-width="1"/>
+    <text x="196" y="300" text-anchor="middle" font-size="18" font-weight="700">全量飞书资产</text>
+    <text x="196" y="330" text-anchor="middle" font-size="13" fill="#666666">自评 · OKR · 任务</text>
+    <text x="196" y="352" text-anchor="middle" font-size="13" fill="#666666">会议 · 文档 · 审批</text>
+
+    <path d="M296 315 C356 315 366 315 426 315" stroke="#B8B8B8" stroke-width="1.5" fill="none"/>
+
+    <rect x="426" y="240" width="248" height="150" fill="#FFFFFF" stroke="#2F6BFF" stroke-width="2"/>
+    <line x1="426" y1="240" x2="674" y2="240" stroke="#2F6BFF" stroke-width="8"/>
+    <text x="550" y="300" text-anchor="middle" font-size="21" font-weight="700">职责画像</text>
+    <text x="550" y="332" text-anchor="middle" font-size="14" fill="#666666">职责域 · 关键结果</text>
+    <text x="550" y="354" text-anchor="middle" font-size="14" fill="#666666">利益相关方</text>
+
+    <path d="M674 315 C734 315 744 315 804 315" stroke="#2F6BFF" stroke-width="1.5" fill="none"/>
+
+    <circle cx="924" cy="315" r="80" fill="#FFFFFF" stroke="#2F6BFF" stroke-width="2"/>
+    <text x="924" y="308" text-anchor="middle" font-size="19" font-weight="700">记忆锚点</text>
+    <text x="924" y="336" text-anchor="middle" font-size="13" fill="#666666">后续任务默认对齐</text>
+
+    <g fill="#2F6BFF">
+      <circle cx="96" cy="560" r="4"/>
+      <circle cx="1104" cy="560" r="4"/>
+    </g>
+    <line x1="112" y1="560" x2="1088" y2="560" stroke="#E8E8E8" stroke-width="1"/>
+    <text x="600" y="567" text-anchor="middle" font-size="13" fill="#666666">证据驱动｜用户确认后落盘｜存抽象锚点，不存原始数据</text>
+  </g>
+</svg>

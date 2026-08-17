@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的工作职责"
+  short_description: "从全量重要飞书资产（自评述职总结文档、OKR、任务、会议、文档、审批、协作等）反推近半年的真实工作职责，成文、可微调，并写入 Agent 记忆做锚点"
+  default_prompt: "根据我最近半年的飞书 OKR、任务、会议和文档，帮我总结出我的工作职责"
