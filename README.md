@@ -13,7 +13,7 @@
 
 ---
 
-# 工作职责总结｜Work Duty Summary
+<h1 align="center">工作职责总结｜Work Duty Summary</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/type-agent%20skill-2F6BFF" alt="type: agent skill"/>
