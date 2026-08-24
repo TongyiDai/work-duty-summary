@@ -16,6 +16,7 @@
 <h1 align="center">工作职责总结｜Work Duty Summary</h1>
 
 <p align="center">
+  <a href="https://github.com/TongyiDai/work-duty-summary/actions/workflows/ci.yml"><img src="https://github.com/TongyiDai/work-duty-summary/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <img src="https://img.shields.io/badge/type-agent%20skill-2F6BFF" alt="type: agent skill"/>
   <img src="https://img.shields.io/badge/domain-People%20%26%20Org-333" alt="domain: People & Org"/>
   <img src="https://img.shields.io/badge/feishu-lark--cli-00D6B9" alt="feishu: lark-cli"/>
